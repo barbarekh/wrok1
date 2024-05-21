@@ -8,4 +8,3 @@ for(let obj of arr){
     index = obj.age
 }
 console.log(index)
-
